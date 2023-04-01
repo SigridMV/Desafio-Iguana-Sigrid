@@ -1,0 +1,110 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background: #000000;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+  color: #ffffff;
+  padding: 7px;
+  font-weight: 500;
+}
+.header_iguana {
+  background-image: url("../img/bg-header.jpg");
+  padding-top: 73px;
+  width: 1280px;
+  height: 727px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.desc-section {
+  background: #000000;
+  margin-top: 45px;
+  margin-left: 200px;
+  width: 100%;
+  vertical-align: middle;
+}
+
+p {
+  color: #ffffff;
+  vertical-align: middle;
+  width: 450px;
+  text-align: left;
+  float: left;
+}
+.informacion {
+  display: inline-block;
+  width: 450px;
+  margin-left: 150px;
+  margin-right: 106px;
+  vertical-align: middle;
+}
+.img-derecha {
+  width: 399px;
+  height: 237px;
+  vertical-align: middle;
+}
+.icon-section {
+  margin-top: 45px;
+  width: 100%;
+  background-color: #1e1a13;
+}
+h2 {
+  color: #ffffff;
+  font-weight: 300;
+  font-size: 2.5em;
+  text-align: center;
+  padding-top: 75px;
+}
+.colored {
+  color: #ffffff;
+}
+.icono {
+  display: inline-block;
+  margin-right: 237.41px;
+}
+h3 {
+  color: #ffffff;
+}
+.imagesx3 {
+  display: inline-block;
+  margin: 10px;
+}
+.center1 {
+  text-align: center;
+}
+.otraclaseizq {
+  padding-left: 190px;
+}
+.porpantalla {
+  width: 24%;
+}
+.img-iguana {
+  width: 316px;
+  height: 202px;
+  padding: 73px 0;
+}
+.espacioizq {
+  padding-left: 120px;
+}
+
+.ultimo {
+  margin-top: 45px;
+  width: 100%;
+  height: 102px;
+  background: #1e1a13;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.pagina {
+  margin-top: 45px;
+  width: 1280px;
+  text-align: center;
+  color: #ffffff;
+}
